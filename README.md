@@ -45,8 +45,8 @@ Limitations of Decision Trees: 1.Prone to overfitting
 
 There are mainly two measures used for the decision tree classifier:
 
-Gini Impurity
-Entropy
+Gini Impurity 
+ Entropy
 Gini Impurity:
 
 It is used in CART(Classification Regression Trees). Gini measures how often a randomly chosen sample would be incorrectly calssified if it were labeled randomly based on class distribution. The formula used to calculate is : [Gini=1-sigma (1 to n)*Probability of class(Pi)] if Gini=0 the node is perfectly purity. Gini is faster to compute.
