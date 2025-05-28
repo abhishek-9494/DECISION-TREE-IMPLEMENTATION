@@ -91,10 +91,10 @@ OUTPUT:
 
 Resources:
 
-Chatgpt
+1.Chatgpt
 
-Geeks for Geeks
+2.Geeks for Geeks
 
-youtube
+3.youtube
 
 4.Machine Learning using python by Manaranjan Pradhan and U Dinesh
